@@ -54,7 +54,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Jan 2018 - April 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -65,17 +65,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Education
 
-#### Any other qualifications
+**University of Surrey (Sep 2015 - Sep 2016)**
 
-## Experience
+- MSc Environmental Strategy (Class 2.1)
+- Qualify for a practitioner level IEMA membership
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+
+**Royal Holloway, University of London (Sep 2012 - July 2015)**
+
+- BSc Physical Geography (Class 2.1)
+- Attained a 1st in my dissertation
+
+
+#### Experience
+
+**Mole Valley District Council** (Nov 2016 to July 2017) *Client Services Adviser* 
+ 
+**Heath Educational Books** (July 2013 to Sep 2015) *Assistant Dispatch Manager*  
