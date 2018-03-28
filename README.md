@@ -3,7 +3,7 @@
 I'm a full stack Javascript/Ruby developer looking for a front end ReactJS role.
 
 After graduating with a MSc in Environmental Strategy I started working for local 
-government. However, I quickly grew disillusioned with my opportunities in the
+government. However, I quickly grew disillusioned with my opportunities to grow in the
 environmental sector and decided to research programming. Coding grabbed my attention
 like nothing else could and I loved its logicality. Hence, soon after, I packed in my 
 job and joined Makers so I could make this newly found passion a full time job.
@@ -19,12 +19,12 @@ job and joined Makers so I could make this newly found passion a full time job.
 
 ## Projects
 
-| Project                                                             | Description                                                                                                                                                                                        | Technologies                               |
-| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [Airport Challenge](https://github.com/JoshuaHolloway/airport_challenge) | This was my first Challenge project at Makrs Academy. Take a look to see how far I have come since.                                                                                                | Ruby, RSpec                                |
-| [Chitter Challenge](https://github.com/JoshuaHolloway/chitter-challenge) | The week 4 challenge in Makers Academy, this is an end to end twitter clone.                                                                                                                       | Ruby, Capybara, Rspec, Datamapper, Sinatra |
-| [WellMo](https://github.com/JoshuaHolloway/WellMo)                       | A small web app built on the CBT (Cognitive Behavioural Therapy) thought recording process. It allows a user to input how they are feeling, and be recommended advice depending on their response. | React, Jest, Enzyme, Nightwatch.js         |
-
+| Project                                                                         | Description                                                                                                                                                                       | Technologies                         |
+| --------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------|
+| [WellMo](https://github.com/JoshuaJFHolloway/WellMo)                            | WellMo is a single page web application that checks in with your mood and returns a helpful response. Built on the CBT (Cognitive Behavioural Therapy) thought recording process. | ReactJS, Jest, Enzyme, Nightwatch.js |
+| [instagram-challenge](https://github.com/JoshuaJFHolloway/instagram-challenge)  | Built my own version of Instagram in a weekend                                                                                                                                    | Ruby on Rails, Rspec                 |                      
+| [bank](https://github.com/JoshuaJFHolloway/bank)                                | Built a small bank app that runs in IRB                                                                                                                                           | Ruby, Rspec                          |
+| [facebook_profile](https://github.com/JoshuaJFHolloway/facebook_profile)        | Playing around with ReactJS to create my own facebook profile                                                                                                                     | ReactJS, Jest, Enzyme, Cypress       |
 
 #### This Skill
 
