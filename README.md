@@ -5,13 +5,14 @@ I'm a **full stack developer** who's recently finished Makers and is looking for
 My interest in coding began when I shadowed developers at a startup. I questioned
 the thought processes that underpinned the planning and implementation of features. Through this,
 I quickly grasped the core principles of programming. One of my first understandings was the single
-responsibility principle and I started to put forward ideas on code structure and method functionality.
+responsibility principle and with this I started to put forward ideas on code structure and method functionality.
+
 I loved that coding is a language of creation and problem solving and I was eager to not just passively learn. 
 To that end, I sat down at my laptop and greeted the world. It was great. I wanted to write, learn and understand
-code so I continued to create small side projects while taking on more responsibilities at the startup. 
-
-My passion and curiosity for coding rapidly took over my life and I knew that I wanted to work on it full time.
-Ever since then I have continued to grow and create projects, some of which you can see below.
+code so I continued to create small side projects while taking on more responsibilities at the startup. It quickly became
+apparent to me that I needed to make this passion a full time job. Furthermore, I wanted to learn practices
+such as TDD, SOLID, XP values and pair programming in a structured setting. Hence, I joined Makers Academy! I'd love
+to work in a supportive environment where these principles are followed.
 
 
 ## Projects
