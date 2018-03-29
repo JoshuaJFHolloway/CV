@@ -2,16 +2,15 @@
 
 I'm a full stack developer who's recently finished Makers and is looking for a front end ReactJS role.
 
-My interest in coding began when I shadowed developers at a startup. I would question 
-the thought processes that underpinned the planning and implementation of features. This allowed
-me to quickly grasp what programming is all about. Once I knew this, I started to put forward
+My interest in coding began when I shadowed developers at a startup. I questioned
+the thought processes that underpinned the planning and implementation of features. Through this,
+I quickly grasped what programming is all about. Therefore, I started to put forward
 ideas on code structure and method functionality. I loved that coding is a language of 
 creation and problem solving and I was eager to play with it. It was at this point that 
 I sat down at my laptop and greeted the world. It was great. I wanted to do, learn and
 know more so I continued to create small side projects while contributing at the startup.
 My passion and curiosity for coding rapidly took over my life and I knew that I wanted to work on it
-full time. Hence, I handed in my notice at the local council I was working at and took my test
-to join Makers Academy.
+full time.
 
 
 (And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment)
@@ -68,19 +67,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Education
 
-**University of Surrey (Sep 2015 - Sep 2016)**
+**University of Surrey** (Sep 2015 - Sep 2016)
 
 - MSc Environmental Strategy (Class 2.1)
-- Qualify for a practitioner level IEMA membership
+    - Qualify for a practitioner level IEMA membership
 
 
-**Royal Holloway, University of London (Sep 2012 - July 2015)**
+**Royal Holloway, University of London** (Sep 2012 - July 2015)
 
 - BSc Physical Geography (Class 2.1)
-- Attained a 1st in my dissertation
+    - Attained a 1st in my dissertation
 
 
 #### Experience
+
+**Rotaready** (July 2017 to Nov 2017) *
 
 **Mole Valley District Council** (Nov 2016 to July 2017) *Client Services Adviser* 
  
