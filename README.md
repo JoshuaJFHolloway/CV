@@ -13,12 +13,6 @@ code so I continued to create small side projects while taking on more responsib
 My passion and curiosity for coding rapidly took over my life and I knew that I wanted to work on it full time.
 Ever since then I have continued to grow and create projects, some of which you can see below.
 
-I love the component.
-
-
-(And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment)
-
-
 
 ## Projects
 
