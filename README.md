@@ -10,7 +10,7 @@ creation and problem solving and I was eager to play with it. It was at this poi
 I sat down at my laptop and greeted the world. It was great. I wanted to do, learn and
 know more so I continued to create small side projects while contributing at the startup.
 My passion and curiosity for coding rapidly took over my life and I knew that I wanted to work on it
-full time.
+full time. 
 
 
 (And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment)
@@ -81,7 +81,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Experience
 
-**Rotaready** (July 2017 to Nov 2017) *
+**Rotaready** (June 2017 to Oct 2017) *Software Engineer Apprentice*
 
 **Mole Valley District Council** (Nov 2016 to July 2017) *Client Services Adviser* 
  
