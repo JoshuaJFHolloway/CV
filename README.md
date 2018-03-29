@@ -57,20 +57,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 Highly selective 16 week intensive coding bootcamp, focusing on:
 
-- Ruby, Javascript, Rails, Rspec, Jasmine, 
+- Ruby, Javascript, Rails, Rspec, Jasmine, Sinatra, JQuery, PostgreSQL.
 - Interactive learning, learn by doing not passively listening.
 - Acclimatising to new techs quickly
 - Pair programming
+- Efficient use of Github
+- Problem solving
 - Principles to guide your code
     - TDD
     - BDD
     - SRP
     - XP values
     - Agile learning
-
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
+    
 
 **University of Surrey** (Sep 2015 - Sep 2016)
 
