@@ -1,4 +1,4 @@
-## Joshua Holloway (IN PRODUCTION)
+## Joshua Holloway (undergoing maintenance)
 
 I'm a **full stack developer** who's recently finished Makers and is looking for a **front end ReactJS role**.
 
@@ -32,13 +32,14 @@ to work in a supportive environment where these principles are followed.
 **Testing frameworks**: Jasmine, Jest, Enzyme, Rspec, Capybara, Nightwatch, (will be cypress)
 
 
-#### This Skill
+#### Excellent communicator
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
 - Achievements
 - Evidence
+
 
 #### Another Skill
 
@@ -49,21 +50,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
 
-#### Makers Academy (Jan 2018 - April 2018)
+#### Education
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+**Makers Academy** (Dec 2018 - April 2018)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
+Highly selective 16 week intensive coding bootcamp, focusing on:
+
+- Ruby, Javascript, Rails, Rspec, Jasmine, 
+- Interactive learning, learn by doing not passively listening.
+- Acclimatising to new techs quickly
+- Pair programming
+- Principles to guide your code
+    - TDD
+    - BDD
+    - SRP
+    - XP values
+    - Agile learning
+
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-
-#### Education
 
 **University of Surrey** (Sep 2015 - Sep 2016)
 
