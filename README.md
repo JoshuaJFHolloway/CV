@@ -1,5 +1,9 @@
 ## Joshua Holloway (undergoing maintenance)
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and interests](#interests)
+
+***
+
 I'm a **full stack developer** who's recently finished Makers and is looking for a **front end ReactJS role**.
 
 My interest in coding began when I shadowed developers at a startup. I questioned
@@ -14,8 +18,9 @@ apparent to me that I needed to make this passion a full time job. Furthermore, 
 such as TDD, SOLID, XP values and pair programming in a structured setting. Hence, I joined Makers Academy! I'd love
 to work in a supportive environment where these principles are followed.
 
+***
 
-## Projects
+## <a name="projects">Projects</a>
 
 | Project                                                                         | Description                                                                                                                                                                       | Technologies                         |
 | --------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------|
@@ -25,7 +30,9 @@ to work in a supportive environment where these principles are followed.
 | [facebook_profile](https://github.com/JoshuaJFHolloway/facebook_profile)        | Playing around with ReactJS in my spare time to create my own interactive facebook profile                                                                                        | ReactJS, Jest, Enzyme, (Cypress)     |
 | [tic-tac-toe](https://github.com/JoshuaJFHolloway/tic-tac-toe)                  | The archaic strategy game recreated in ReactJS                                                                                                                                    | ReactJS, Jest, Enzyme, (Cypress)     |
 
-## Skills
+***
+
+## <a name="skills">Skills</a>
 
 **Frameworks**: Javascript, ReactJS, Ruby, Rails, Sinatra, HTML, CSS (styled-components for ReactJS too), jQuery, PostgreSQL.
 
@@ -57,9 +64,9 @@ and, following TDD, built and tested a functioning CBT thought recording app. Fu
 one the Makers practise tech tests in React (Tic Tac Toe) so that I could further my knowledge of the tech.
 I am curious about absolutely everything and always looking for opportunities to learn. This is why 
 
+***
 
-
-## Education
+## <a name="education">Education</a>
 
 **Makers Academy** (Dec 2018 - April 2018)
 
@@ -90,8 +97,9 @@ Highly selective 16 week intensive coding bootcamp, focusing on:
 - BSc Physical Geography (Class 2.1)
     - Attained a 1st in my dissertation
 
+***
 
-## Experience
+## <a name="experience">Experience</a>
 
 **Rotaready** (June 2017 to Oct 2017) *Software Engineer Apprentice*
 
@@ -99,9 +107,9 @@ Highly selective 16 week intensive coding bootcamp, focusing on:
  
 **Heath Educational Books** (July 2013 to Sep 2015) *Assistant Dispatch Manager*  
 
+***
 
-
-## Hobbies and Interests
+## <a name="interests">Hobbies and Interests<a/>
 
 - **Meteorology**: I enjoy identifying clouds and looking at weather statistics.
 - **Reading**: Anything scientific but currently particularly interested in space, philosophy and ancient civilisations.
