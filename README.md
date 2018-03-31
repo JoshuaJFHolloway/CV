@@ -99,6 +99,8 @@ Highly selective 16 week intensive coding bootcamp, focusing on:
  
 **Heath Educational Books** (July 2013 to Sep 2015) *Assistant Dispatch Manager*  
 
+
+
 ## Hobbies and Interests
 
 - **Meteorology**: I enjoy identifying clouds and looking at weather statistics.
