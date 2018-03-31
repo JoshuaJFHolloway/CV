@@ -25,7 +25,7 @@ to work in a supportive environment where these principles are followed.
 | Project                                                                         | Description                                                                                                                                                                       | Technologies                         |
 | --------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------|
 | [WellMo](https://github.com/JoshuaJFHolloway/WellMo)                            | WellMo is a single page web application that checks in with your mood and returns a helpful response. Built on the CBT (Cognitive Behavioural Therapy) thought recording process. | ReactJS, Jest, Enzyme, Nightwatch.js |
-| [instagram-challenge](https://github.com/JoshuaJFHolloway/instagram-challenge)  | Built my own interactive version of Instagram in a weekend                                                                                                                        | Ruby on Rails, Rspec                 |                      
+| [instagram-challenge](https://github.com/JoshuaJFHolloway/instagram-challenge)  | Built my own interactive version of Instagram in a weekend                                                                                                                        | Ruby on Rails, Rspec, CSS (Bootstrap)|                      
 | [bank](https://github.com/JoshuaJFHolloway/bank)                                | Built a small bank app that runs in IRB                                                                                                                                           | Ruby, Rspec                          |
 | [facebook_profile](https://github.com/JoshuaJFHolloway/facebook_profile)        | Playing around with ReactJS in my spare time to create my own interactive facebook profile                                                                                        | ReactJS, Jest, Enzyme, (Cypress)     |
 | [tic-tac-toe](https://github.com/JoshuaJFHolloway/tic-tac-toe)                  | The archaic strategy game recreated in ReactJS                                                                                                                                    | ReactJS, Jest, Enzyme, (Cypress)     |
@@ -101,7 +101,7 @@ Highly selective 16 week intensive coding bootcamp, focusing on:
 
 ## <a name="experience">Experience</a>
 
-**Rotaready** (June 2017 to Oct 2017) *Software Engineer Apprentice*
+**Rotaready** (June 2017 to Sept 2017) *Software Engineer Apprentice*
 
 **Mole Valley District Council** (Nov 2016 to July 2017) *Client Services Adviser* 
  
