@@ -111,6 +111,6 @@ Highly selective 16 week intensive coding bootcamp, focusing on:
 
 ## <a name="interests">Hobbies and Interests<a/>
 
-- **Meteorology**: I enjoy identifying clouds and looking at weather statistics.
+- **Meteorology**: I enjoy identifying clouds and analysing weather statistics.
 - **Reading**: Anything scientific but currently particularly interested in space, philosophy, ancient civilisations and algae.
 - **Gaming**: I dabble in League of Legends.
