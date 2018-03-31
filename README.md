@@ -85,7 +85,6 @@ Highly selective 16 week intensive coding bootcamp, focusing on:
     - XP values
     - Agile learning
     
-    <br />
 
 **University of Surrey** (Sep 2015 - Sep 2016)
 
