@@ -1,4 +1,4 @@
-## Joshua Holloway (undergoing maintenance)
+## Joshua Holloway
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and interests](#interests)
 
@@ -86,7 +86,7 @@ Highly selective 16 week intensive coding bootcamp, focusing on:
     - Agile learning
     
 
-**University of Surrey** (Sep 2015 - Sep 2016) <br />
+**University of Surrey** (Sep 2015 - Sep 2016)
 
 - MSc Environmental Strategy (Class 2.1)
     - Qualify for a practitioner level IEMA membership
