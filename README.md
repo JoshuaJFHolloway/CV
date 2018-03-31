@@ -22,33 +22,40 @@ to work in a supportive environment where these principles are followed.
 | [WellMo](https://github.com/JoshuaJFHolloway/WellMo)                            | WellMo is a single page web application that checks in with your mood and returns a helpful response. Built on the CBT (Cognitive Behavioural Therapy) thought recording process. | ReactJS, Jest, Enzyme, Nightwatch.js |
 | [instagram-challenge](https://github.com/JoshuaJFHolloway/instagram-challenge)  | Built my own interactive version of Instagram in a weekend                                                                                                                        | Ruby on Rails, Rspec                 |                      
 | [bank](https://github.com/JoshuaJFHolloway/bank)                                | Built a small bank app that runs in IRB                                                                                                                                           | Ruby, Rspec                          |
-| [facebook_profile](https://github.com/JoshuaJFHolloway/facebook_profile)        | Playing around with ReactJS in my spare time to create my own interactive facebook profile                                                                                        | ReactJS, Jest, Enzyme, Cypress       |
-
+| [facebook_profile](https://github.com/JoshuaJFHolloway/facebook_profile)        | Playing around with ReactJS in my spare time to create my own interactive facebook profile                                                                                        | ReactJS, Jest, Enzyme, (Cypress)     |
+| [tic-tac-toe](https://github.com/JoshuaJFHolloway/tic-tac-toe)                  | The archaic strategy game recreated in ReactJS                                                                                                                                    | ReactJS, Jest, Enzyme, (Cypress)     |
 
 ## Skills
 
 **Frameworks**: Javascript, ReactJS, Ruby, Rails, Sinatra, HTML, CSS (styled-components for ReactJS too), jQuery, PostgreSQL.
 
-**Testing frameworks**: Jasmine, Jest, Enzyme, Rspec, Capybara, Nightwatch, (will be cypress)
+**Testing frameworks**: Jasmine, Jest, Enzyme, Rspec, Capybara, Nightwatch.js, (Cypress)
 
 
 #### Excellent communicator
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+During my time at Mole Valley District Council I regularly spoke with the general public. Part of my
+job was to explain council policy and legislation in simple terms. Hence, I learnt how to effectively
+communicate technical language to those who are not familiar with it. I was able to carry this skill into 
+Makers and pair programming helped me refine it further. It is so important to be able to articulate thoughts 
+and processes so that your partner can know what you are implementing. Otherwise, they are not in a position
+to contribute or even give helpful tips.
 
-- Experience
-- Achievements
-- Evidence
+
+#### Working under pressure
+
+During my MSc I met regular deadlines for projects and research and this prepared me well for the 
+weekend challenges and group projects at Makers. It is a calm disposition and my strong time management
+and organisational skills that have allowed to do this.
 
 
-#### Another Skill
+#### Fast learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+For our WellMo project, I learnt ReactJS, Jest, Enzyme and Nightwatch.js without them being taught on the course
+and, following TDD, built and tested a functioning CBT thought recording app. Furthermore, I decided to complete
+one the Makers practise tech tests in React (Tic Tac Toe) so that I could further my knowledge of the tech.
+I am curious about absolutely everything and always looking for opportunities to learn. This is why 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 
 #### Education
@@ -58,12 +65,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Highly selective 16 week intensive coding bootcamp, focusing on:
 
 - Ruby, Javascript, Rails, Rspec, Jasmine, Sinatra, JQuery, PostgreSQL.
-- Interactive learning, learn by doing not passively listening.
+- Interactive learning, not passively learning.
 - Acclimatising to new techs quickly
 - Pair programming
-- Efficient use of Github
+- Managing workflow and merge conflicts in Github
 - Problem solving
-- Principles to guide your code
+- Principles to guide my code
     - TDD
     - BDD
     - SRP
@@ -90,3 +97,9 @@ Highly selective 16 week intensive coding bootcamp, focusing on:
 **Mole Valley District Council** (Nov 2016 to July 2017) *Client Services Adviser* 
  
 **Heath Educational Books** (July 2013 to Sep 2015) *Assistant Dispatch Manager*  
+
+#### Hobbies and Interests
+
+- **Meteorology**: I enjoy identifying clouds and looking at weather statistics.
+- **Reading**: Anything scientific but currently particularly interested in space, philosophy and ancient civilisations.
+- **Gaming**: I dabble in League of Legends.
