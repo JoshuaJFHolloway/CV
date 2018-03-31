@@ -4,7 +4,7 @@
 
 ***
 
-I'm a **full stack developer** who's recently finished Makers and is looking for a **front end ReactJS role**.
+I'm a **full stack developer** who's recently finished Makers and is particularly interested in **ReactJS**.
 
 My interest in coding began when I shadowed developers at a startup. I questioned
 the thought processes that underpinned the planning and implementation of features. Through this,
