@@ -86,7 +86,7 @@ Highly selective 16 week intensive coding bootcamp, focusing on:
     - Agile learning
     
 
-**University of Surrey** (Sep 2015 - Sep 2016)
+**University of Surrey** (Sep 2015 - Sep 2016) <br />
 
 - MSc Environmental Strategy (Class 2.1)
     - Qualify for a practitioner level IEMA membership
