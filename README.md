@@ -32,6 +32,7 @@ to work in a supportive environment where these principles are followed.
 **Testing frameworks**: Jasmine, Jest, Enzyme, Rspec, Capybara, Nightwatch.js, (Cypress)
 
 
+
 #### Excellent communicator
 
 During my time at Mole Valley District Council I regularly spoke with the general public. Part of my
@@ -58,7 +59,7 @@ I am curious about absolutely everything and always looking for opportunities to
 
 
 
-#### Education
+## Education
 
 **Makers Academy** (Dec 2018 - April 2018)
 
@@ -90,7 +91,7 @@ Highly selective 16 week intensive coding bootcamp, focusing on:
     - Attained a 1st in my dissertation
 
 
-#### Experience
+## Experience
 
 **Rotaready** (June 2017 to Oct 2017) *Software Engineer Apprentice*
 
@@ -98,7 +99,7 @@ Highly selective 16 week intensive coding bootcamp, focusing on:
  
 **Heath Educational Books** (July 2013 to Sep 2015) *Assistant Dispatch Manager*  
 
-#### Hobbies and Interests
+## Hobbies and Interests
 
 - **Meteorology**: I enjoy identifying clouds and looking at weather statistics.
 - **Reading**: Anything scientific but currently particularly interested in space, philosophy and ancient civilisations.
