@@ -62,7 +62,7 @@ and organisational skills that have allowed to do this.
 For our WellMo project, I learnt ReactJS, Jest, Enzyme and Nightwatch.js without them being taught on the course
 and, following TDD, built and tested a functioning CBT thought recording app. Furthermore, I decided to complete
 one the Makers practise tech tests in React (Tic Tac Toe) so that I could further my knowledge of the tech.
-I am curious about absolutely everything and always looking for opportunities to learn. This is why 
+I am curious about absolutely everything and always looking for opportunities to learn. 
 
 ***
 
