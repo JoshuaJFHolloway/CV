@@ -28,7 +28,7 @@ to work in a supportive environment where these principles are followed.
 | [instagram-challenge](https://github.com/JoshuaJFHolloway/instagram-challenge)  | Built my own interactive version of Instagram in a weekend                                                                                                                        | Ruby on Rails, Rspec, CSS (Bootstrap)|                      
 | [bank](https://github.com/JoshuaJFHolloway/bank)                                | Built a small bank app that runs in IRB                                                                                                                                           | Ruby, Rspec                          |
 | [facebook_profile](https://github.com/JoshuaJFHolloway/facebook_profile)        | Playing around with ReactJS in my spare time to create my own interactive facebook profile                                                                                        | ReactJS, Jest, Enzyme, (Cypress)     |
-| [tic-tac-toe](https://github.com/JoshuaJFHolloway/tic-tac-toe)                  | The archaic strategy game recreated in ReactJS                                                                                                                                    | ReactJS, Jest, Enzyme, (Cypress)     |
+| [TicTacToe-React](https://github.com/JoshuaJFHolloway/TicTacToe-React)          | The archaic strategy game recreated in ReactJS                                                                                                                                    | ReactJS, Jest, Enzyme, (Cypress)     |
 
 ***
 
