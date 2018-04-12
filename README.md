@@ -24,11 +24,10 @@ to work in a supportive environment where these principles are followed.
 
 | Project                                                                         | Description                                                                                                                                                                       | Technologies                                                 |
 | --------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------|
-| [Slath](https://github.com/JoshuaJFHolloway/Slath)                              | Adventure game to help you learn languages !                                                                                                                                      | ReactJS, Jest, Enzyme, Cypress, CSS (styled-components)      |                         |                                     |
+| [LocalizR](https://github.com/JoshuaJFHolloway/LocalizR)                        | Phrase book game to help you learn languages !                                                                                                                                    | ReactJS, Jest, Enzyme, Cypress, Express, Node, MongoDB, CSS  |
 | [WellMo](https://github.com/JoshuaJFHolloway/WellMo)                            | WellMo is a single page web application that checks in with your mood and returns a helpful response. Built on the CBT (Cognitive Behavioural Therapy) thought recording process. | ReactJS, Jest, Enzyme, Nightwatch.js, CSS (styled-components)|
 | [instagram-challenge](https://github.com/JoshuaJFHolloway/instagram-challenge)  | Built my own interactive version of Instagram in a weekend                                                                                                                        | Ruby on Rails, Rspec, CSS (Bootstrap)                        |                      
 | [bank](https://github.com/JoshuaJFHolloway/bank)                                | Built a small bank app that runs in IRB                                                                                                                                           | Ruby, Rspec                                                  |
-| [TicTacToe-React](https://github.com/JoshuaJFHolloway/TicTacToe-React)          | The archaic strategy game recreated in ReactJS (under construction)                                                                                                               | ReactJS, Jest, Enzyme, (Will use Cypress)                    |
 
 ***
 
@@ -36,7 +35,7 @@ to work in a supportive environment where these principles are followed.
 
 **Frameworks**: Javascript, ReactJS, Ruby, Rails, Sinatra, HTML, CSS (styled-components for ReactJS too), jQuery, PostgreSQL.
 
-**Testing frameworks**: Jasmine, Jest, Enzyme, Rspec, Capybara, Nightwatch.js, (Cypress)
+**Testing frameworks**: Jasmine, Jest, Enzyme, Rspec, Capybara, Nightwatch.js, Cypress
 
 
 
