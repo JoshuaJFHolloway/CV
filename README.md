@@ -59,9 +59,10 @@ and organisational skills that have allowed to do this.
 #### Fast learner
 
 For our WellMo project, I learnt ReactJS, Jest, Enzyme and Nightwatch.js without them being taught on the course
-and, following TDD, built and tested a functioning CBT thought recording app. Furthermore, I decided to complete
-one the Makers practise tech tests in React (Tic Tac Toe) so that I could further my knowledge of the tech.
-I am curious about absolutely everything and always looking for opportunities to learn. 
+and, following TDD, built and tested a functioning CBT thought recording app. Furthermore, I decided expand upon
+this knowledge by choosing to do my final project using the MERN stack. This allowed me to learn ReactJS to a greater
+depth and understand how it is integrated with a Node, Express and MongoDB backend and server. I am curious about absolutely
+everything and always looking for opportunities to learn. 
 
 ***
 
