@@ -68,7 +68,7 @@ everything and always looking for opportunities to learn.
 
 ## <a name="education">Education</a>
 
-**Makers Academy** (Dec 2018 - April 2018)
+**Makers Academy** (Dec 2017 - April 2018)
 
 Highly selective 16 week intensive coding bootcamp, focusing on:
 
