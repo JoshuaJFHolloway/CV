@@ -4,7 +4,7 @@
 
 ***
 
-I'm a **full stack developer** who's recently finished Makers Academy and I'd love to work in a supportive environment where principles
+I'm a **full stack developer** who's recently finished Makers Academy and would love to work in a supportive environment where principles
 such as TDD, SOLID, XP values and pair programming are followed.
 
 My interest in coding began when I shadowed developers at a startup. I questioned
