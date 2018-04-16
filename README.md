@@ -49,7 +49,7 @@ to contribute or even give helpful tips.
 
 Additionally, having covered ReactJS in the WellMo project, I took it upon myself to teach ReactJS to everyone in my LocalizR group to help get the team
 up to speed. I received lots of positive feedback from them during retros about how patient and clear I was in teaching and discussing
-technical matters! 
+technical matters.
 
 
 #### Working under pressure
