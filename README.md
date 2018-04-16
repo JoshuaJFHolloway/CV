@@ -52,7 +52,7 @@ to contribute or even give helpful tips.
 
 During my MSc I met regular deadlines for projects and research and this prepared me well for the 
 weekend challenges and group projects at Makers. It is a calm disposition and my strong time management
-and organisational skills that have allowed to do this.
+and organisational skills that have allowed me to do this.
 
 
 #### Fast learner
