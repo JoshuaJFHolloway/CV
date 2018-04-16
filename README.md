@@ -47,6 +47,10 @@ Makers and pair programming helped me refine it further. It is so important to b
 and processes so that your partner can know what you are implementing. Otherwise, they are not in a position
 to contribute or even give helpful tips.
 
+Additionally, having covered ReactJS in the WellMo project, I took it upon myself to teach ReactJS to everyone in my LocalizR group to help get the team
+up to speed. I received lots of positive feedback from them during retros about how patient and clear I was in teaching and discussing
+technical matters! 
+
 
 #### Working under pressure
 
@@ -60,10 +64,8 @@ and organisational skills that have allowed me to do this.
 For our WellMo project, I learnt ReactJS, Jest, Enzyme and Nightwatch.js without them being taught on the course
 and, following TDD, built and tested a functioning CBT thought recording app. Furthermore, I decided expand upon
 this knowledge by choosing to do my final project using the MERN stack. This allowed me to learn ReactJS to a greater
-depth and understand how it is integrated with a Node, Express and MongoDB backend. Additionally, having covered part
-of the tech stack in the WellMo project, I took it upon myself to teach ReactJS to everyone in my group to help get the team
-up to speed. I received lots of positive feedback from them during retros about how patient and clear I was in teaching and discussing
-technical matters! I am curious about absolutely everything and always looking for opportunities to learn. 
+depth and understand how it is integrated with a Node, Express and MongoDB backend. I am curious about absolutely everything
+and always looking for opportunities to learn.
 
 ***
 
