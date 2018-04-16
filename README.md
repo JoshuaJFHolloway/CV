@@ -4,7 +4,8 @@
 
 ***
 
-I'm a **full stack developer** who's recently finished Makers and is particularly interested in the **ReactJS library**.
+I'm a **full stack developer** who's recently finished Makers Academy and I'd love to work in a supportive environment where principles
+such as TDD, SOLID, XP values and pair programming are followed.
 
 My interest in coding began when I shadowed developers at a startup. I questioned
 the thought processes that underpinned the planning and implementation of features. Through this,
@@ -14,9 +15,7 @@ responsibility principle and with this I started to put forward ideas on code st
 I loved that coding is a language of creation and problem solving and I was eager to not just passively learn. 
 To that end, I sat down at my laptop and greeted the world. It was great. I wanted to write, learn and understand
 code so I continued to create small side projects while taking on more responsibilities at the startup. It quickly became
-apparent to me that I needed to make this passion a full time job. Furthermore, I wanted to learn practices
-such as TDD, SOLID, XP values and pair programming in a structured setting. Hence, I joined Makers Academy! I'd love
-to work in a supportive environment where these principles are followed.
+apparent to me that I needed to make this passion a full time job so I joined Makers Academy!
 
 ***
 
@@ -61,8 +60,10 @@ and organisational skills that have allowed to do this.
 For our WellMo project, I learnt ReactJS, Jest, Enzyme and Nightwatch.js without them being taught on the course
 and, following TDD, built and tested a functioning CBT thought recording app. Furthermore, I decided expand upon
 this knowledge by choosing to do my final project using the MERN stack. This allowed me to learn ReactJS to a greater
-depth and understand how it is integrated with a Node, Express and MongoDB backend and server. I am curious about absolutely
-everything and always looking for opportunities to learn. 
+depth and understand how it is integrated with a Node, Express and MongoDB backend. Additionally, having covered part
+of the tech stack in the WellMo project, I took it upon myself to teach ReactJS to everyone in my group to help get the team
+up to speed. I received lots of positive feedback from them during retros about how patient and clear I was in teaching and discussing
+technical matters! I am curious about absolutely everything and always looking for opportunities to learn. 
 
 ***
 
