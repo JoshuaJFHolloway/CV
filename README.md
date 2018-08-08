@@ -23,7 +23,8 @@ apparent to me that I needed to make this passion a full time job so I joined Ma
 
 | Project                                                                         | Description                                                                                                                                                                       | Technologies                                                 |
 | --------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------|
-| [Drover](https://github.com/JoshuaJFHolloway/Drover)                            | Tech test for Drover- Recreate their search page with no TDD                                                                                                          | ReactJS and CSS                                              |
+| [Roomba](https://github.com/JoshuaJFHolloway/Roomba)                            | A virtual hoover that cleans up dirt tiles                                                                                                                                        | ReactJS, Jest, Enzyme, Sinon and CSS                         |
+| [Drover](https://github.com/JoshuaJFHolloway/Drover)                            | Tech test for Drover- Recreate their search page                                                                                                                                  | ReactJS, Enzyme, Sinon and CSS                               |
 | [LocalizR](https://github.com/JoshuaJFHolloway/LocalizR)                        | Phrase book game to help you learn languages !                                                                                                                                    | ReactJS, Jest, Enzyme, Cypress, Express, Node, MongoDB, CSS  |
 | [WellMo](https://github.com/JoshuaJFHolloway/WellMo)                            | WellMo is a single page web application that checks in with your mood and returns a helpful response. Built on the CBT (Cognitive Behavioural Therapy) thought recording process. | ReactJS, Jest, Enzyme, Nightwatch.js, CSS (styled-components)|
 | [instagram-challenge](https://github.com/JoshuaJFHolloway/instagram-challenge)  | Built my own interactive version of Instagram in a weekend                                                                                                                        | Ruby on Rails, Rspec, CSS (Bootstrap)                        |                      
@@ -104,6 +105,8 @@ Highly selective 16 week intensive coding bootcamp, focusing on:
 ***
 
 ## <a name="experience">Experience</a>
+
+**Rotaready** (June 2018 to now) *Junior Developer*
 
 **Rotaready** (June 2017 to Sept 2017) *Software Engineer Apprentice*
 
